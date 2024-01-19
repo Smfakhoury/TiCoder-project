@@ -3,7 +3,7 @@
 
 TiCoder is a framework designed to enhance the accuracy of code generation in Large Language Models (LLMs) through interactive and guided intent clarification. TiCoder partially formalizes ambiguous intent in natural language prompts by generating a set of tests to distinguish common divergent behaviours in generated code suggestions. The test-driven interaction enables users to provide feedback on expected program behavior through concrete specifications.
 
-TiCoder is on arxiv: https://arxiv.org/pdf/2208.05950.pdf
+Arxiv paper: https://arxiv.org/pdf/2208.05950.pdf
 
 ### Algorithm
 <img width="400" alt="ticoder-flow-2" src="https://github.com/Smfakhoury/TiCoder-project/assets/36719864/f48c1116-d8ca-4c06-afc8-1265d7bc0251">
