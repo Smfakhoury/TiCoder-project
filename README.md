@@ -5,14 +5,11 @@ TiCoder is a framework designed to enhance the accuracy of code generation in La
 
 Arxiv paper: https://arxiv.org/pdf/2208.05950.pdf
 
-### Algorithm
+
 <img width="400" alt="ticoder-flow-2" src="https://github.com/Smfakhoury/TiCoder-project/assets/36719864/f48c1116-d8ca-4c06-afc8-1265d7bc0251">
-___________________
-
-## TiCoder Boosts Code Generation Accuracy 
-![Screenshot 2024-01-18 at 12 30 26 PM](https://github.com/Smfakhoury/TiCoder-project/assets/36719864/12435bd2-60f9-44b7-b1d6-c13a7eab12ba)
 
 ___________________
+
 ## TiCoder User Study
 
 ### Tasks
